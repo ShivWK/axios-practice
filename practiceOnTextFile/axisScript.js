@@ -1,5 +1,8 @@
 const showDiv = document.getElementById("showData");
 
+axios.default.headers.comman["Authorization"] = "sssssssssssss";
+
+
 const handleClick = async () => {
 //   const config = {
 //     method: "GET",
